@@ -1,6 +1,6 @@
 """
 This module shows how to ITERATE (i.e. loop) through a SEQUENCE
-in ways OTHER than just going thru the sequence from BEGINNING to END.
+in ways OTHER than just going through the sequence from BEGINNING to END.
 
 It also shows how to SELECT items in a sequence, e.g.:
   -- the items that are strings
